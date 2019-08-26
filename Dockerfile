@@ -1,4 +1,4 @@
-FROM alpine:edge
+FROM alpine:latest
 
 ENV NODE_ID=0                            \
     DNS_1=1.0.0.1                        \
